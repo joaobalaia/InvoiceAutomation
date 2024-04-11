@@ -1,2 +1,2 @@
 # InvoiceAutomation
-Automate supplier invoice processing with Power BI &amp; Power Automate. Real-time analytics &amp; automated workflows for efficient AP operations
+The Invoice Automation is a comprehensive project that leverages Power BI and Power Automate to streamline and automate the processing of supplier invoices. Designed to enhance efficiency and accuracy in financial operations, this repository includes custom-built dashboards for real-time financial analytics, along with automated workflows for invoice processing, verification, and reconciliation. Ideal for businesses seeking to optimize their accounts payable processes, reduce manual errors, and gain deeper insights into their spending patterns.
